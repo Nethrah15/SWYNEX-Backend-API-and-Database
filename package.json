@@ -1,0 +1,8 @@
+{
+  "name": "swynex-backend-api-and-database",
+  "version": "1.0.0",
+  "description": "SWYNEX Task 2 - Backend API and Database",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2", "cors": "^2.8.5" }
+}
